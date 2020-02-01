@@ -1,5 +1,5 @@
 ﻿#! /bin/bash
-# Copyright (c) 2019 Siris-Rose
+# Copyright (c) 2019 Siris-Rosea
 
 red='\033[0;31m'
 green='\033[0;32m'

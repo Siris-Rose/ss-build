@@ -1,6 +1,6 @@
 ﻿#!/bin/bash
 
-## BEGIN INIT INFO
+### BEGIN INIT INFO
 # Provides:          Siris-Rose# Required-Start:    $network $syslog
 # Required-Stop:     $network
 # Default-Start:     2 3 4 5
